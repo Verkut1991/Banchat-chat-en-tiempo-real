@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.local
+uploads/
+*.log
+.DS_Store
+
+# React
+React/node_modules/
+React/build/
+React/.env
+React/.env.local
+React/.env.*.local
